@@ -4,7 +4,7 @@ public class Display implements ViewRegister  {
 
     }
 
-    //Displays some text on the screen.
+    //Displays text on screen.
     @Override
     public void displayProduct(Product product) {
         //Outputs display when called
