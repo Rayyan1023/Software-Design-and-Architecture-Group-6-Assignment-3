@@ -1,3 +1,9 @@
+//Rayyan Mohammed 100752351
+
+//Daniyal Khan 100750029
+
+//Muhammad Khalid 100746801
+
 public class Main {
 
     public static void main(String[] args) {
