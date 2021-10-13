@@ -9,4 +9,4 @@ Approach Two
 
 Approach Three
   
-  This approach is very easy to extend, as you can create a new class that implements IRegisterObserver without modifying CashRegister, and thus Cash Register is not dependent on any operator. This approach however is much harder and more complicated to implement compared to the other approaches because it has more code that needs to be maintained due to the addition of the new class.
+  This approach is very easy to extend, as you can create a new class that implements observerRegister without modifying CashRegister, and thus Cash Register is not dependent on any operator. This approach however is much harder and more complicated to implement compared to the other approaches because it has more code that needs to be maintained due to the addition of the new class.
