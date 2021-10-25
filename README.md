@@ -1,5 +1,5 @@
 # Software-Design-and-Architecture-Group-6-Assignment-3
-## Exercise 4
+## Exercise 4: Advantages and Disadvantages
 Exercise 1:
 Because each View operator has an instance variable in the Cash Register class, the first solution is simple to construct but complicated to modify.
 It is also easy to implement the Display and TicketPrinter because there is no need for layering, but it also makes it difficult to modidify because of it.
