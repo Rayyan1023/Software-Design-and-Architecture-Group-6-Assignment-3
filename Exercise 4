@@ -1,0 +1,9 @@
+Exercise 1:
+Because each View operator has an instance variable in the Cash Register class, the first solution is simple to construct but complicated to modify.
+
+Exercise 2:
+The second exercise is simpler to integrate than the first since the CashRegister does not have to rely on the View classes' operators.
+AlALthough, because the View classes still include instance variables, the Cash Register class is still reliant on it.
+
+Exercise 3:
+This method is simple to extend since you may construct a new class that implements observerRegister without changing CashRegister, and so Cash Register isn't reliant of any operator.
